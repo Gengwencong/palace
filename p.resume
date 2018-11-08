@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>resume</title>
+
+</head>
+<body>
+<div class="head_1">
+    <h1>简历</h1>
+</div>
+
+<div class="content">
+    <div class="information">
+        <div class="head_2">
+           <h2>基本信息</h2>
+        </div>
+
+            <table>
+                 <tr>
+                     <th>姓名</th><td>张三</td>
+                     <th>性别</th><td>男</td>
+                     <th>职位</th><td>工程师</td>
+                 </tr>
+            </table>
+    </div>
+
+    <div class="contact">
+        <div class="head_3">
+            <h3>联系方式</h3>
+        </div>
+        <table>
+                 <tr>
+                     <th>手机</th><td>133*****77</td>
+                     <th>email</th><td>1333***88@qq.com</td>
+                     <th>个人主页</th><td>github</td>
+                 </tr>
+        </table>
+    </div>
+
+    <div class="ability">
+        <div class="head_4">
+            <h4>能力描述</h4>
+        </div>
+    </div>
+        <table>
+                 <tr>
+                     <th>技术能力</th><td>熟练掌握吹牛b</td>
+                     <th>综合能力</th><td>努力勤奋</td>
+                 </tr>
+        </table>
+
+    <div class="education">
+         <div class="head_5">
+             <h5>教育经历</h5>
+         </div>
+    </div>
+        <table>
+                 <tr>
+                     <th>本科</th><td>百度前端技术学院</td>
+                     <th>研究生</th><td>百度前端技术学院</td>
+                 </tr>
+        </table>
+
+    <div class="experience">
+        <div class="head_6">
+            <h6>项目经历</h6>
+        </div>
+    </div>
+        <table>
+                  <tr>
+                      <th>小度小度</th><td>作为前端工程师参与了开发</td>
+                      <th>SAN DOC</th><td>参与了SAN DOC编写</td>
+                  </tr>
+        </table>
+</div>
+</body>
+</html>
